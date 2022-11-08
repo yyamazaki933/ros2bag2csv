@@ -1,6 +1,10 @@
 # ros2bag2csv
 
-Only supports geometry_msgs/msg/PoseStamped yet.
+Support message types
+
+- sensor_msgs/msg/NavSatFix
+- geometry_msgs/msg/PoseStamped
+
 
 ## Usage
 
